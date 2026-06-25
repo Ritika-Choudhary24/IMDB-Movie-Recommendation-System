@@ -10,11 +10,11 @@ The result is an interactive **Streamlit** web app where you can explore recomme
 
 ##  Live Demo
 
-👉 **[Try the App Here](https://imdb-movie-recommendation-system-cegpa4wlqgdohnlwwvdmx3.streamlit.app/)**
+ **[Try the App Here](https://imdb-movie-recommendation-system-cegpa4wlqgdohnlwwvdmx3.streamlit.app/)**
 
 ---
 
-## 📌 Features
+##  Features
 
 - Search and select from 16,000+ IMDb movies by title and year
 - Get the **top 5 personalized recommendations** based on your chosen movie
