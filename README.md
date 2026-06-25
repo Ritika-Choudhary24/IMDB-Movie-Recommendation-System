@@ -66,7 +66,7 @@ The dataset `imdb_top_movies_1980_2026.csv` contains movies from **1980 to 2026*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** — Core language
 - **Streamlit** — Web app framework
