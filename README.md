@@ -1,4 +1,4 @@
-# 🎬 IMDb Movie Recommendation System
+#  IMDb Movie Recommendation System
 
 
 This project aims to build a content-based movie recommendation system that not only suggests films you'll love, but also lets you compare how different algorithms arrive at those suggestions.
@@ -8,7 +8,7 @@ The result is an interactive **Streamlit** web app where you can explore recomme
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 👉 **[Try the App Here](https://imdb-movie-recommendation-system-cegpa4wlqgdohnlwwvdmx3.streamlit.app/)**
 
@@ -24,7 +24,7 @@ The result is an interactive **Streamlit** web app where you can explore recomme
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 This is a **content-based filtering** system. When you select a movie, the app computes similarity scores between it and every other movie in the dataset using three different algorithms, then averages them to produce a final ranked recommendation list.
 
@@ -40,7 +40,7 @@ The final recommendation score is the **average of all three algorithms**, givin
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 IMDB-Movie-Recommendation-System/
@@ -53,7 +53,7 @@ IMDB-Movie-Recommendation-System/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset `imdb_top_movies_1980_2026.csv` contains movies from **1980 to 2026** with the following fields used in the recommendation engine:
 
@@ -76,7 +76,7 @@ The dataset `imdb_top_movies_1980_2026.csv` contains movies from **1980 to 2026*
 
 ---
 
-## ⚙️ Run Locally
+##  Run Locally
 
 1. **Clone the repository**
    ```bash
@@ -98,7 +98,7 @@ The dataset `imdb_top_movies_1980_2026.csv` contains movies from **1980 to 2026*
 
 ---
 
-## 📸 App Preview
+##  App Preview
 
 The app features:
 - A **movie search box** with autocomplete
@@ -108,12 +108,12 @@ The app features:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ritika Choudhary**
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
